@@ -170,3 +170,8 @@
     </profiles>
 
 </project>
+<dependency>
+  <groupId>com.coinbase.android</groupId>
+  <artifactId>coinbase-android-sdk</artifactId>
+  <version>1.0.1</version>
+</dependency>
